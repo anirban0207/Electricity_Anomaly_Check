@@ -2,4 +2,6 @@ venv/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-data/
+data/*
+!data/
+!data/sample_daily_electricity_usage.csv
